@@ -1,1 +1,1 @@
-# Python-Exercises/variables
+# Python-Exercises/practices
